@@ -20,9 +20,6 @@
 
 <h3 align="center">Stock Market App — Alerts, Charts, AI Insights</h3>
 
-## 🚀 Live Demo
-
-Check out the live app here: [Signalist Stock Tracker](https:signalist-stock-tracker-app-five.vercel.app)
 
 </div>
 
